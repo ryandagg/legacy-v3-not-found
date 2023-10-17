@@ -17,7 +17,7 @@
   "dependencies": {
     "@oclif/core": "^3",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^3.9.1",
+    "@oclif/plugin-plugins": "^3.9.2",
     "eslint-config-prettier": "^9.0.0"
   },
   "devDependencies": {
