@@ -485,9 +485,9 @@
     "@oclif/core" "^2.15.0"
 
 "@oclif/plugin-legacy@^1":
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-legacy/-/plugin-legacy-1.3.4.tgz#5785f6f504f4d3eac36d3ce38a784d507bb3e0c7"
-  integrity sha512-YXQ+rW91cGMqCRTv3kJ0XI3ZmXv0CpI2atgy/CKEv6o1ztJ2EBg0q1gk/OFW9ZhxiuZWNdp4yq89+5qrIquM6g==
+  version "1.3.5"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-legacy/-/plugin-legacy-1.3.5.tgz#6266d16220f72234d998d247ae351a95cf51a110"
+  integrity sha512-veJJ4VwRe+0rjlDSIj8phWH5lO1RtMIWKa9AhAtEnZ/yKmL+6hs20mrAverRidLoiDFtN3xPdo1y4F7whhDuYw==
   dependencies:
     "@heroku-cli/command" "^8.5.0"
     "@oclif/color" "^0.1.2"
